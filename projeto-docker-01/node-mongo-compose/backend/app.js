@@ -26,7 +26,6 @@ Client.updateOptions({new: true, runValidators: true})
 //Routes
 Client.register(server, '/clients')
 
-
 // start server 3000
 server.listen(3000)
 
